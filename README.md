@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
