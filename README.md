@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0051-n-queens) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Greedy
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
