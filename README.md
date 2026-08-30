@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Backtracking
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/padigalaisaac-web/DSA-PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
