@@ -1,14 +1,10 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-
         HashMap <Character,Integer> originalMap = new HashMap<>();
-
         ArrayList<Integer> arr = new ArrayList<>();
-
         if(p.length()>s.length()){
             return arr;
         }
-
         //traverse p
         for(int i =0; i<p.length(); i++){
             originalMap.put(p.charAt(i),originalMap.getOrDefault(p.charAt(i),0)+1);
@@ -33,17 +29,13 @@ class Solution {
         if(isEqual){
             arr.add(i);
         }
-
         //traversing the whole window
         while(j<s.length()-1){
-
             map.put(s.charAt(i),map.get(s.charAt(i))-1); 
-            if(map.get(s.charAt(i))==0){
-                              
+            if(map.get(s.charAt(i))==0){             
            
                 map.remove(s.charAt(i));
             }
-
             i++;
             j++;
             map.put(s.charAt(j),map.getOrDefault(s.charAt(j),0)+1);
